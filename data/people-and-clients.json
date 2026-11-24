@@ -1,0 +1,73 @@
+{
+  "people": [
+    {
+      "initials": "RM",
+      "name": "Riya Menon",
+      "role": "Producer"
+    },
+    {
+      "initials": "PS",
+      "name": "Pranav Shah",
+      "role": "Editor"
+    },
+    {
+      "initials": "JT",
+      "name": "Jia Tan",
+      "role": "Motion designer"
+    },
+    {
+      "initials": "SD",
+      "name": "Sana Dutt",
+      "role": "Editor"
+    },
+    {
+      "initials": "MK",
+      "name": "Mihir Kapoor",
+      "role": "Copywriter"
+    },
+    {
+      "initials": "NV",
+      "name": "Neha Verma",
+      "role": "Designer"
+    },
+    {
+      "initials": "AK",
+      "name": "Arjun Kale",
+      "role": "Account manager"
+    }
+  ],
+  "clients": [
+    {
+      "name": "Sunrise Foods",
+      "brands": [
+        "Sunrise Chai",
+        "Sunrise Oats"
+      ]
+    },
+    {
+      "name": "Kestrel Motors",
+      "brands": [
+        "Kestrel EV"
+      ]
+    },
+    {
+      "name": "Bloom Skincare",
+      "brands": [
+        "Bloom Glow",
+        "Bloom Men"
+      ]
+    },
+    {
+      "name": "Northwind Telecom",
+      "brands": [
+        "Northwind 5G"
+      ]
+    },
+    {
+      "name": "Halo Jewellers",
+      "brands": [
+        "Halo Bridal"
+      ]
+    }
+  ]
+}

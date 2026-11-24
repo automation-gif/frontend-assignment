@@ -1,0 +1,670 @@
+{
+  "today": "2026-11-20",
+  "items": [
+    {
+      "id": "WRD-101",
+      "title": "Location + props list for Sunrise Chai shoot",
+      "client": "Sunrise Foods",
+      "brand": "Sunrise Chai",
+      "type": "Shoot Prep",
+      "status": "in_progress",
+      "priority": "normal",
+      "owners": [
+        "RM"
+      ],
+      "due": "2026-11-17"
+    },
+    {
+      "id": "WRD-102",
+      "title": "YouTube thumbnails x3 for Sunrise Oats",
+      "client": "Sunrise Foods",
+      "brand": "Sunrise Oats",
+      "type": "Thumbnail",
+      "status": "todo",
+      "priority": "normal",
+      "owners": [
+        "PS"
+      ],
+      "due": "2026-11-18"
+    },
+    {
+      "id": "WRD-103",
+      "title": "YouTube thumbnails x3 for Sunrise Oats",
+      "client": "Sunrise Foods",
+      "brand": "Sunrise Oats",
+      "type": "Thumbnail",
+      "status": "in_progress",
+      "priority": "high",
+      "owners": [
+        "JT",
+        "SD"
+      ],
+      "due": "2026-12-04"
+    },
+    {
+      "id": "WRD-104",
+      "title": "Instagram captions for Sunrise Oats reels",
+      "client": "Sunrise Foods",
+      "brand": "Sunrise Oats",
+      "type": "Caption Copy",
+      "status": "client_review",
+      "priority": "urgent",
+      "owners": [
+        "MK",
+        "PS"
+      ],
+      "due": "2026-11-17"
+    },
+    {
+      "id": "WRD-105",
+      "title": "Final sound mix — Sunrise Chai 30s",
+      "client": "Sunrise Foods",
+      "brand": "Sunrise Chai",
+      "type": "Sound Mix",
+      "status": "todo",
+      "priority": "normal",
+      "owners": [
+        "MK",
+        "JT"
+      ],
+      "due": "2026-11-19"
+    },
+    {
+      "id": "WRD-106",
+      "title": "Storyboard v1 for Sunrise Oats launch film",
+      "client": "Sunrise Foods",
+      "brand": "Sunrise Oats",
+      "type": "Storyboard",
+      "status": "client_review",
+      "priority": "normal",
+      "owners": [
+        "SD"
+      ],
+      "due": "2026-12-06"
+    },
+    {
+      "id": "WRD-107",
+      "title": "Instagram captions for Sunrise Oats reels",
+      "client": "Sunrise Foods",
+      "brand": "Sunrise Oats",
+      "type": "Caption Copy",
+      "status": "todo",
+      "priority": "low",
+      "owners": [
+        "NV",
+        "RM"
+      ],
+      "due": "2026-11-22"
+    },
+    {
+      "id": "WRD-108",
+      "title": "Instagram captions for Sunrise Chai reels",
+      "client": "Sunrise Foods",
+      "brand": "Sunrise Chai",
+      "type": "Caption Copy",
+      "status": "done",
+      "priority": "high",
+      "owners": [
+        "JT"
+      ],
+      "due": "2026-11-27"
+    },
+    {
+      "id": "WRD-109",
+      "title": "Storyboard v2 for Sunrise Oats launch film",
+      "client": "Sunrise Foods",
+      "brand": "Sunrise Oats",
+      "type": "Storyboard",
+      "status": "client_review",
+      "priority": "normal",
+      "owners": [
+        "NV",
+        "RM"
+      ],
+      "due": "2026-12-02"
+    },
+    {
+      "id": "WRD-110",
+      "title": "Storyboard v2 for Sunrise Oats launch film",
+      "client": "Sunrise Foods",
+      "brand": "Sunrise Oats",
+      "type": "Storyboard",
+      "status": "in_progress",
+      "priority": "high",
+      "owners": [
+        "NV"
+      ],
+      "due": "2026-11-21"
+    },
+    {
+      "id": "WRD-111",
+      "title": "Export + deliver all formats for Kestrel EV",
+      "client": "Kestrel Motors",
+      "brand": "Kestrel EV",
+      "type": "Final Delivery",
+      "status": "todo",
+      "priority": "normal",
+      "owners": [
+        "JT"
+      ],
+      "due": "2026-12-03"
+    },
+    {
+      "id": "WRD-112",
+      "title": "Instagram captions for Kestrel EV reels",
+      "client": "Kestrel Motors",
+      "brand": "Kestrel EV",
+      "type": "Caption Copy",
+      "status": "in_progress",
+      "priority": "urgent",
+      "owners": [
+        "NV"
+      ],
+      "due": "2026-11-30"
+    },
+    {
+      "id": "WRD-113",
+      "title": "Script draft for Kestrel EV 30s film",
+      "client": "Kestrel Motors",
+      "brand": "Kestrel EV",
+      "type": "Script",
+      "status": "blocked",
+      "priority": "normal",
+      "owners": [
+        "MK",
+        "NV"
+      ],
+      "due": "2026-11-25"
+    },
+    {
+      "id": "WRD-114",
+      "title": "Final sound mix — Kestrel EV 30s",
+      "client": "Kestrel Motors",
+      "brand": "Kestrel EV",
+      "type": "Sound Mix",
+      "status": "done",
+      "priority": "normal",
+      "owners": [
+        "PS"
+      ],
+      "due": "2026-11-27"
+    },
+    {
+      "id": "WRD-115",
+      "title": "Apply client notes on Kestrel EV cut",
+      "client": "Kestrel Motors",
+      "brand": "Kestrel EV",
+      "type": "Edit Feedback",
+      "status": "todo",
+      "priority": "low",
+      "owners": [
+        "NV"
+      ],
+      "due": "2026-11-25"
+    },
+    {
+      "id": "WRD-116",
+      "title": "Apply client notes on Kestrel EV cut",
+      "client": "Kestrel Motors",
+      "brand": "Kestrel EV",
+      "type": "Edit Feedback",
+      "status": "todo",
+      "priority": "normal",
+      "owners": [
+        "PS"
+      ],
+      "due": "2026-11-30"
+    },
+    {
+      "id": "WRD-117",
+      "title": "YouTube thumbnails x3 for Kestrel EV",
+      "client": "Kestrel Motors",
+      "brand": "Kestrel EV",
+      "type": "Thumbnail",
+      "status": "in_progress",
+      "priority": "low",
+      "owners": [
+        "PS"
+      ],
+      "due": "2026-11-29"
+    },
+    {
+      "id": "WRD-118",
+      "title": "Storyboard v3 for Kestrel EV launch film",
+      "client": "Kestrel Motors",
+      "brand": "Kestrel EV",
+      "type": "Storyboard",
+      "status": "todo",
+      "priority": "high",
+      "owners": [
+        "NV"
+      ],
+      "due": "2026-11-23"
+    },
+    {
+      "id": "WRD-119",
+      "title": "Online Cut v2 — Kestrel EV 60s",
+      "client": "Kestrel Motors",
+      "brand": "Kestrel EV",
+      "type": "Online Cut",
+      "status": "in_progress",
+      "priority": "normal",
+      "owners": [
+        "SD"
+      ],
+      "due": "2026-11-20"
+    },
+    {
+      "id": "WRD-120",
+      "title": "Location + props list for Kestrel EV shoot",
+      "client": "Kestrel Motors",
+      "brand": "Kestrel EV",
+      "type": "Shoot Prep",
+      "status": "blocked",
+      "priority": "low",
+      "owners": [
+        "JT",
+        "AK"
+      ],
+      "due": "2026-12-02"
+    },
+    {
+      "id": "WRD-121",
+      "title": "Export + deliver all formats for Bloom Men",
+      "client": "Bloom Skincare",
+      "brand": "Bloom Men",
+      "type": "Final Delivery",
+      "status": "blocked",
+      "priority": "normal",
+      "owners": [
+        "AK"
+      ],
+      "due": "2026-11-28"
+    },
+    {
+      "id": "WRD-122",
+      "title": "Export + deliver all formats for Bloom Men",
+      "client": "Bloom Skincare",
+      "brand": "Bloom Men",
+      "type": "Final Delivery",
+      "status": "in_progress",
+      "priority": "high",
+      "owners": [
+        "PS"
+      ],
+      "due": "2026-11-22"
+    },
+    {
+      "id": "WRD-123",
+      "title": "Colour grade pass for Bloom Glow hero film",
+      "client": "Bloom Skincare",
+      "brand": "Bloom Glow",
+      "type": "Colour Grade",
+      "status": "client_review",
+      "priority": "normal",
+      "owners": [
+        "SD"
+      ],
+      "due": "2026-11-19"
+    },
+    {
+      "id": "WRD-124",
+      "title": "Colour grade pass for Bloom Glow hero film",
+      "client": "Bloom Skincare",
+      "brand": "Bloom Glow",
+      "type": "Colour Grade",
+      "status": "client_review",
+      "priority": "normal",
+      "owners": [
+        "PS"
+      ],
+      "due": "2026-11-18"
+    },
+    {
+      "id": "WRD-125",
+      "title": "Colour grade pass for Bloom Men hero film",
+      "client": "Bloom Skincare",
+      "brand": "Bloom Men",
+      "type": "Colour Grade",
+      "status": "client_review",
+      "priority": "urgent",
+      "owners": [
+        "NV"
+      ],
+      "due": "2026-12-01"
+    },
+    {
+      "id": "WRD-126",
+      "title": "Apply client notes on Bloom Men cut",
+      "client": "Bloom Skincare",
+      "brand": "Bloom Men",
+      "type": "Edit Feedback",
+      "status": "in_progress",
+      "priority": "low",
+      "owners": [
+        "JT"
+      ],
+      "due": "2026-11-20"
+    },
+    {
+      "id": "WRD-127",
+      "title": "Apply client notes on Bloom Men cut",
+      "client": "Bloom Skincare",
+      "brand": "Bloom Men",
+      "type": "Edit Feedback",
+      "status": "done",
+      "priority": "urgent",
+      "owners": [
+        "SD"
+      ],
+      "due": "2026-11-21"
+    },
+    {
+      "id": "WRD-128",
+      "title": "Location + props list for Bloom Men shoot",
+      "client": "Bloom Skincare",
+      "brand": "Bloom Men",
+      "type": "Shoot Prep",
+      "status": "blocked",
+      "priority": "normal",
+      "owners": [
+        "MK",
+        "AK"
+      ],
+      "due": "2026-11-16"
+    },
+    {
+      "id": "WRD-129",
+      "title": "YouTube thumbnails x3 for Bloom Men",
+      "client": "Bloom Skincare",
+      "brand": "Bloom Men",
+      "type": "Thumbnail",
+      "status": "in_progress",
+      "priority": "high",
+      "owners": [
+        "SD",
+        "MK"
+      ],
+      "due": "2026-11-21"
+    },
+    {
+      "id": "WRD-130",
+      "title": "Export + deliver all formats for Bloom Men",
+      "client": "Bloom Skincare",
+      "brand": "Bloom Men",
+      "type": "Final Delivery",
+      "status": "todo",
+      "priority": "normal",
+      "owners": [
+        "MK",
+        "PS"
+      ],
+      "due": "2026-11-22"
+    },
+    {
+      "id": "WRD-131",
+      "title": "YouTube thumbnails x3 for Northwind 5G",
+      "client": "Northwind Telecom",
+      "brand": "Northwind 5G",
+      "type": "Thumbnail",
+      "status": "in_progress",
+      "priority": "normal",
+      "owners": [
+        "RM"
+      ],
+      "due": "2026-11-16"
+    },
+    {
+      "id": "WRD-132",
+      "title": "Instagram captions for Northwind 5G reels",
+      "client": "Northwind Telecom",
+      "brand": "Northwind 5G",
+      "type": "Caption Copy",
+      "status": "done",
+      "priority": "normal",
+      "owners": [
+        "AK"
+      ],
+      "due": "2026-11-30"
+    },
+    {
+      "id": "WRD-133",
+      "title": "Storyboard v2 for Northwind 5G launch film",
+      "client": "Northwind Telecom",
+      "brand": "Northwind 5G",
+      "type": "Storyboard",
+      "status": "todo",
+      "priority": "high",
+      "owners": [
+        "SD"
+      ],
+      "due": "2026-11-22"
+    },
+    {
+      "id": "WRD-134",
+      "title": "Apply client notes on Northwind 5G cut",
+      "client": "Northwind Telecom",
+      "brand": "Northwind 5G",
+      "type": "Edit Feedback",
+      "status": "done",
+      "priority": "urgent",
+      "owners": [
+        "AK",
+        "NV"
+      ],
+      "due": "2026-11-27"
+    },
+    {
+      "id": "WRD-135",
+      "title": "Apply client notes on Northwind 5G cut",
+      "client": "Northwind Telecom",
+      "brand": "Northwind 5G",
+      "type": "Edit Feedback",
+      "status": "done",
+      "priority": "normal",
+      "owners": [
+        "MK"
+      ],
+      "due": "2026-11-29"
+    },
+    {
+      "id": "WRD-136",
+      "title": "Apply client notes on Northwind 5G cut",
+      "client": "Northwind Telecom",
+      "brand": "Northwind 5G",
+      "type": "Edit Feedback",
+      "status": "in_progress",
+      "priority": "high",
+      "owners": [
+        "PS"
+      ],
+      "due": "2026-11-18"
+    },
+    {
+      "id": "WRD-137",
+      "title": "Location + props list for Northwind 5G shoot",
+      "client": "Northwind Telecom",
+      "brand": "Northwind 5G",
+      "type": "Shoot Prep",
+      "status": "client_review",
+      "priority": "high",
+      "owners": [
+        "MK",
+        "SD"
+      ],
+      "due": "2026-11-30"
+    },
+    {
+      "id": "WRD-138",
+      "title": "Export + deliver all formats for Northwind 5G",
+      "client": "Northwind Telecom",
+      "brand": "Northwind 5G",
+      "type": "Final Delivery",
+      "status": "done",
+      "priority": "normal",
+      "owners": [
+        "AK"
+      ],
+      "due": "2026-11-20"
+    },
+    {
+      "id": "WRD-139",
+      "title": "Export + deliver all formats for Northwind 5G",
+      "client": "Northwind Telecom",
+      "brand": "Northwind 5G",
+      "type": "Final Delivery",
+      "status": "todo",
+      "priority": "high",
+      "owners": [
+        "AK"
+      ],
+      "due": "2026-11-20"
+    },
+    {
+      "id": "WRD-140",
+      "title": "Offline Cut v3 — Northwind 5G 60s",
+      "client": "Northwind Telecom",
+      "brand": "Northwind 5G",
+      "type": "Offline Cut",
+      "status": "in_progress",
+      "priority": "normal",
+      "owners": [
+        "SD"
+      ],
+      "due": "2026-11-23"
+    },
+    {
+      "id": "WRD-141",
+      "title": "Location + props list for Halo Bridal shoot",
+      "client": "Halo Jewellers",
+      "brand": "Halo Bridal",
+      "type": "Shoot Prep",
+      "status": "todo",
+      "priority": "low",
+      "owners": [
+        "MK",
+        "SD"
+      ],
+      "due": "2026-11-27"
+    },
+    {
+      "id": "WRD-142",
+      "title": "YouTube thumbnails x3 for Halo Bridal",
+      "client": "Halo Jewellers",
+      "brand": "Halo Bridal",
+      "type": "Thumbnail",
+      "status": "todo",
+      "priority": "normal",
+      "owners": [
+        "MK"
+      ],
+      "due": "2026-11-20"
+    },
+    {
+      "id": "WRD-143",
+      "title": "Location + props list for Halo Bridal shoot",
+      "client": "Halo Jewellers",
+      "brand": "Halo Bridal",
+      "type": "Shoot Prep",
+      "status": "client_review",
+      "priority": "high",
+      "owners": [
+        "SD"
+      ],
+      "due": "2026-11-20"
+    },
+    {
+      "id": "WRD-144",
+      "title": "YouTube thumbnails x3 for Halo Bridal",
+      "client": "Halo Jewellers",
+      "brand": "Halo Bridal",
+      "type": "Thumbnail",
+      "status": "todo",
+      "priority": "normal",
+      "owners": [
+        "MK"
+      ],
+      "due": "2026-12-02"
+    },
+    {
+      "id": "WRD-145",
+      "title": "YouTube thumbnails x3 for Halo Bridal",
+      "client": "Halo Jewellers",
+      "brand": "Halo Bridal",
+      "type": "Thumbnail",
+      "status": "todo",
+      "priority": "urgent",
+      "owners": [
+        "SD"
+      ],
+      "due": "2026-11-22"
+    },
+    {
+      "id": "WRD-146",
+      "title": "YouTube thumbnails x3 for Halo Bridal",
+      "client": "Halo Jewellers",
+      "brand": "Halo Bridal",
+      "type": "Thumbnail",
+      "status": "todo",
+      "priority": "normal",
+      "owners": [
+        "SD",
+        "MK"
+      ],
+      "due": "2026-11-18"
+    },
+    {
+      "id": "WRD-147",
+      "title": "Online Cut v2 — Halo Bridal 60s",
+      "client": "Halo Jewellers",
+      "brand": "Halo Bridal",
+      "type": "Online Cut",
+      "status": "in_progress",
+      "priority": "normal",
+      "owners": [
+        "JT"
+      ],
+      "due": "2026-12-03"
+    },
+    {
+      "id": "WRD-148",
+      "title": "YouTube thumbnails x3 for Halo Bridal",
+      "client": "Halo Jewellers",
+      "brand": "Halo Bridal",
+      "type": "Thumbnail",
+      "status": "done",
+      "priority": "high",
+      "owners": [
+        "AK"
+      ],
+      "due": "2026-11-22"
+    },
+    {
+      "id": "WRD-149",
+      "title": "Apply client notes on Halo Bridal cut",
+      "client": "Halo Jewellers",
+      "brand": "Halo Bridal",
+      "type": "Edit Feedback",
+      "status": "in_progress",
+      "priority": "urgent",
+      "owners": [
+        "JT"
+      ],
+      "due": "2026-11-23"
+    },
+    {
+      "id": "WRD-150",
+      "title": "Storyboard v3 for Halo Bridal launch film",
+      "client": "Halo Jewellers",
+      "brand": "Halo Bridal",
+      "type": "Storyboard",
+      "status": "done",
+      "priority": "low",
+      "owners": [
+        "RM",
+        "PS"
+      ],
+      "due": "2026-11-20"
+    }
+  ]
+}
